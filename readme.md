@@ -1,5 +1,5 @@
 # Hls4ML unified backend tutorial
-- This repository introduce you how to use Vitis unified backend to create full flow platform from HLS4ML to pynq zcu102
+- This repository introduces you how to use Vitis unified backend to create full flow platform from HLS4ML to pynq zcu102
 
 
 ## envionment install 
